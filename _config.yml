@@ -1,0 +1,13 @@
+# Site settings
+title: byhj
+email: binyuapple@163.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: xiebinyu
+github_username: byhj
+
+# Build settings
+markdown: kramdown
+port: 4005
