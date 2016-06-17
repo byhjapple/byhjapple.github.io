@@ -10,4 +10,4 @@ douyu_username: 648031
 
 # Build settings
 markdown: kramdown
-port: 4000
+port: 4005
